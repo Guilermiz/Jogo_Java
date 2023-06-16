@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Responderar_2-removebg-preview]([https://github.com/juliarodriguessilva/Java-Oracle/assets/129952159/2b49c14c-fb7e-4b82-9166-505d3ccc6f1c](https://drive.google.com/file/d/11lqyKVf9e0cvjsltOIPoOckJ95H_1cCY/view?usp=drive_link))
+![Responderar__2_-removebg-preview](https://github.com/Guilermiz/Jogo_Java/assets/80459748/41e098ff-3da8-4c31-a530-45185c7cd72e)
 
 </div>
 
