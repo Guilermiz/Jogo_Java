@@ -28,14 +28,14 @@ Portanto, a comunidade do Responderar convida entusiasticamente os jogadores a p
 
 ## Diagrama de Classes
 
-![Diagrama sem nome drawio](https://github.com/juliarodriguessilva/Java-Oracle/assets/129952159/3cfc6c91-be56-4e88-86c6-ab4ccc26bb20)
+![Diagrama sem nome drawio](https://github.com/Guilermiz/Jogo_Java/assets/80459748/6f0e08a2-3e1a-4948-9018-c362b77d8575)
 
 ## Modelo Entidade Relacionamento
 
 ### Conceitual
 
-![Modelo conceitual](https://github.com/juliarodriguessilva/Java-Oracle/assets/129952159/22ed33cd-14df-4a51-8977-8465ed59f8dd)
+![Modelo conceitual](https://github.com/Guilermiz/Jogo_Java/assets/80459748/2654143e-d38f-4d17-91f6-5e119103bd7d)
 
 ### Lógico
 
-![Modelo lógico](https://github.com/juliarodriguessilva/Java-Oracle/assets/129952159/3a1ddfd6-f094-4ffb-94c1-1d9b16b665e4)
+![Modelo lógico](https://github.com/Guilermiz/Jogo_Java/assets/80459748/7e906a85-e8d0-4f1d-843b-4fdc4969b26a)
